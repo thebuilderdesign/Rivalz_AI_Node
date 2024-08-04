@@ -3,7 +3,7 @@ Rivalz Node CLI Installation Script
 
 ## First step
 
-Create an account here : https://rivalz.ai?r=cryptoconsol
+Create an account here : https://rivalz.ai?r=Chan_cr08
 
 ## Requirements
 
